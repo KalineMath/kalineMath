@@ -1,3 +1,4 @@
+### Olá!
 Possuo **licenciatura em Matemática**, **mestrado em Engenharia de Petróleo** e **Bacharelado em Ciência e Tecnologia - Mecatrônica** pela Universidade Federal do Rio Grande do Norte (UFRN). Atualmente estou cursando graduação em **Engenharia Mecatrônica** (UFRN) e **Especialização em Visão Computacional** pelo Sigmoidal. As principais áreas de interesse são: 
 **Machine Learning, Deep Learning, Robótica e Visão Computacional**. 
 
@@ -10,6 +11,6 @@ Possuo **licenciatura em Matemática**, **mestrado em Engenharia de Petróleo** 
 ### Habilidades
 
 <div>
-<img align="centeer" alt="Kaline-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg"/>
+<img align="center" alt="Kaline-py" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 </div>
 
