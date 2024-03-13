@@ -1,18 +1,15 @@
 Possuo **licenciatura em Matemática**, **mestrado em Engenharia de Petróleo** e **Bacharelado em Ciência e Tecnologia - Mecatrônica** pela Universidade Federal do Rio Grande do Norte (UFRN). Atualmente estou cursando graduação em **Engenharia Mecatrônica** (UFRN) e **Especialização em Visão Computacional** pelo Sigmoidal. As principais áreas de interesse são: 
 **Machine Learning, Deep Learning, Robótica e Visão Computacional**. 
 
-Contato: kaline.souza.079@ufrn.edu.br
-<!--
-**KalineMath/kalineMath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Redes Sociais
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaline-souza/)
+[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://professorakalinesouza.blogspot.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kalinesouza___/?igsh=eW14N3U4aW5xb3k0&utm_source=qr)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kaline.souza.079@ufrn.edu.br)
 
-Here are some ideas to get you started:
+### Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<img align="centeer" alt="Kaline-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg"/>
+</div>
+
