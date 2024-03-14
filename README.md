@@ -11,9 +11,6 @@ Possuo **licenciatura em Matemática**, **mestrado em Engenharia de Petróleo** 
 ### Habilidades
 
 <div>
-<img align="center" alt="Kaline-py" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
-<img align="center" alt="Kaline-js" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"/>
-<img align="center" alt="Kaline-pt" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"/>  
-<img align="center" alt="Kaline-cv" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg"/>   
+<img align="center" alt="Kaline-py" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>  
 </div>
 
